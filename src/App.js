@@ -5,6 +5,7 @@ function App() {
   return (
     <div className="backGround">
       <h1 className='tit'>RẠP CHIẾU PHIM CYBERSOFT</h1>
+      <div className='screen'></div>
       <Home />
     </div>
   );
